@@ -3,5 +3,5 @@ address = "127.0.0.1"
 port = 4010
 
 [auth]
-username = "max"
-password = "123"
+username = "username"
+password = "password"
